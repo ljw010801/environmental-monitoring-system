@@ -1,2 +1,6 @@
-# environmental-monitoring-system
-environmental-monitoring-system
+# 환경 모니터링 시스템 (Environmental Monitoring System)
+
+이 프로젝트는 실시간 환경 데이터를 수집하고 모니터링하는 시스템입니다. 센서 데이터를 읽고 이를 처리하여 사용자에게 유용한 정보를 제공합니다. 데이터는 주기적으로 수집되며, 데이터의 이상을 감지하고 경고를 제공할 수 있습니다.
+
+## 프로젝트 소개
+환경 모니터링 시스템은 온도, 습도, 대기 질 등 다양한 환경 변수들을 측정하고 실시간으로 모니터링할 수 있는 시스템입니다.
